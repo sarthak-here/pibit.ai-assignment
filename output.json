@@ -1,0 +1,108 @@
+{
+    "personal_information": {
+        "name": "Sarthak Sharma",
+        "contact": {
+            "email": "sarthak909999@gmail.com",
+            "github": "https://github.com/sarthak-here",
+            "linkedin": "https://www.linkedin.com/in/sarthak-sharma-474064230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "location": "Delhi, India"
+        }
+    },
+    "objective": "Highly motivated Computer Science student with a strong focus on Artificial Intelligence. Aiming to leverage technical expertise in machine learning and deep learning to drive innovation and solve complex problems.",
+    "education": [
+        {
+            "degree": "Bachelor of Technology, Computer Science (A.I.)",
+            "institution": "Bennett University",
+            "location": "Greater Noida, India",
+            "year": "2021 - Present",
+            "cgpa": "8.7"
+        }
+    ],
+    "experience": [
+        {
+            "position": "Intern",
+            "company": "Spacekayak",
+            "duration": "November 2023 - February 2024",
+            "details": "Worked on building AI agents for Flipkart using LLM models and stable diffusion. Remote job."
+        },
+        {
+            "position": "Freelancer",
+            "company": "Global Hexon",
+            "duration": "November 2023 - Present",
+            "details": "Worked on building AI agents for Global Hexon such as stable video diffusion and headshot generation using AI."
+        },
+        {
+            "position": "Project Member",
+            "company": "WATCHTOWER",
+            "duration": "June 2023 - September 2023",
+            "details": "Developed a project to recognize scam NFTs and won third prize in an all-India competition by Superteam India."
+        },
+        {
+            "position": "Project Team Head",
+            "company": "Artificial Intelligence Society, Bennett University",
+            "duration": "September 2022 - August 2023",
+            "details": "Led various AI projects and initiatives within the society."
+        }
+    ],
+    "projects_publications": [
+        {
+            "title": "Ant-Inspired Route Optimization for Last Mile Delivery",
+            "type": "Publication",
+            "details": "I am one of the authors of this research paper published in IEEE.",
+            "tech_stack": ["C++", "Python", "Machine Learning", "Deep Learning"],
+            "link": "https://ieeexplore.ieee.org/document/10486417/authors#authors"
+        },
+        {
+            "title": "Face-recognition and Dataset Creator",
+            "type": "Project",
+            "details": "Engineered a facial recognition algorithm capable of identifying and categorizing facial features in real-time, while generating a robust dataset for machine learning applications.",
+            "tech_stack": ["Python", "OpenCV", "TensorFlow", "Neural Networks"],
+            "link": "https://github.com/sarthak-here/face_recognition"
+        },
+        {
+            "title": "Watchtower (a shield against scam NFTs)",
+            "type": "Project",
+            "details": "Architected and developed machine learning solutions for detecting and preventing scam NFTs. The project focused on real-time detection and maintaining security for crypto wallets.",
+            "tech_stack": ["Python", "TensorFlow", "BERT", "CNN", "Solana Blockchain", "Phantom Wallet", "RESTful APIs"],
+            "link": "https://watchtower.magicmint.fun/"
+        },
+        {
+            "title": "Full Body Recognizer",
+            "type": "Project",
+            "details": "Developed a holistic body recognition system using deep learning algorithms to analyze human body postures for healthcare and security applications.",
+            "tech_stack": ["Python", "OpenCV", "Deep Learning", "Mediapipe", "Convolutional Neural Networks"],
+            "link": "https://github.com/sarthak-here/holistic-diagram-using-AI"
+        }
+    ],
+    "certificates": [
+        {
+            "title": "Generative AI for Everyone",
+            "platform": "Coursera",
+            "details": "Acquired foundational knowledge in the lifecycle of a generative AI project, from conception to launch, including how to build effective prompts.",
+            "link": "https://coursera.org/share/5e1635b3a90f89e88385dcc584ef9c3b"
+        },
+        {
+            "title": "AWS Academy Graduate - AWS Academy Machine Learning Foundations",
+            "platform": "Credly",
+            "details": "Completed an intensive course on machine learning fundamentals and AWS cloud services.",
+            "link": "https://www.credly.com/badges/911a77f6-9f52-4b38-883c-69a5eb6a59b4/public_url"
+        },
+        {
+            "title": "Mathematics for Machine Learning: Multivariate Calculus",
+            "platform": "Coursera",
+            "details": "Mastered multivariate calculus techniques applicable to machine learning algorithms.",
+            "link": "https://coursera.org/share/010e1ea5d529d7be535eb9240f153446"
+        },
+        {
+            "title": "Mathematics for Machine Learning: Linear Algebra",
+            "platform": "Coursera",
+            "details": "Gained expertise in linear algebra concepts crucial for machine learning and data science.",
+            "link": "https://coursera.org/share/25487a08bcbdb93a9e47dca4e47fdf22"
+        }
+    ],
+    "skills": {
+        "programming_languages": ["Python", "Java", "C++", "SQL"],
+        "technologies_frameworks": ["DSA", "DAA", "Machine Learning", "Deep Learning", "Operating System", "Computer Network", "RAML", "NLP", "Computer Vision"],
+        "soft_skills": ["Problem-Solving", "Teamwork", "Communication", "Leadership", "Adaptability", "Time Management", "Critical Thinking"]
+    }
+}
